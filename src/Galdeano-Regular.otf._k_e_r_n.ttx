@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="T" v="-50"/>
+      <pair l="A" r="V" v="-60"/>
+      <pair l="A" r="quotedbl" v="-70"/>
+      <pair l="A" r="v" v="-25"/>
+      <pair l="C" r="c" v="-20"/>
+      <pair l="D" r="A" v="-10"/>
+      <pair l="F" r="A" v="-35"/>
+      <pair l="F" r="c" v="-30"/>
+      <pair l="K" r="c" v="-20"/>
+      <pair l="K" r="v" v="-25"/>
+      <pair l="L" r="T" v="-50"/>
+      <pair l="L" r="V" v="-30"/>
+      <pair l="L" r="quotedbl" v="-70"/>
+      <pair l="P" r="A" v="-30"/>
+      <pair l="P" r="c" v="-30"/>
+      <pair l="P" r="idieresis" v="10"/>
+      <pair l="T" r="A" v="-30"/>
+      <pair l="T" r="a" v="-50"/>
+      <pair l="T" r="acircumflex" v="-20"/>
+      <pair l="T" r="adieresis" v="-20"/>
+      <pair l="T" r="braceright" v="30"/>
+      <pair l="T" r="bracketright" v="30"/>
+      <pair l="T" r="c" v="-55"/>
+      <pair l="T" r="f" v="-20"/>
+      <pair l="T" r="icircumflex" v="30"/>
+      <pair l="T" r="idieresis" v="30"/>
+      <pair l="T" r="igrave" v="20"/>
+      <pair l="T" r="m" v="-60"/>
+      <pair l="T" r="parenright" v="60"/>
+      <pair l="T" r="s" v="-60"/>
+      <pair l="T" r="t" v="-40"/>
+      <pair l="T" r="u" v="-60"/>
+      <pair l="V" r="A" v="-55"/>
+      <pair l="V" r="a" v="-40"/>
+      <pair l="V" r="asterisk" v="20"/>
+      <pair l="V" r="c" v="-60"/>
+      <pair l="V" r="comma" v="-60"/>
+      <pair l="V" r="copyright" v="20"/>
+      <pair l="V" r="registered" v="20"/>
+      <pair l="X" r="A" v="-30"/>
+      <pair l="X" r="c" v="-30"/>
+      <pair l="Y" r="icircumflex" v="20"/>
+      <pair l="Y" r="idieresis" v="30"/>
+      <pair l="Y" r="igrave" v="20"/>
+      <pair l="braceleft" r="T" v="30"/>
+      <pair l="bracketleft" r="T" v="30"/>
+      <pair l="f" r="asterisk" v="30"/>
+      <pair l="f" r="copyright" v="80"/>
+      <pair l="f" r="quotedbl" v="60"/>
+      <pair l="f" r="registered" v="80"/>
+      <pair l="f" r="trademark" v="80"/>
+      <pair l="fi" r="quotedbl" v="10"/>
+      <pair l="fl" r="quotedbl" v="10"/>
+      <pair l="parenleft" r="T" v="60"/>
+      <pair l="quotedbl" r="A" v="-70"/>
+      <pair l="r" r="asterisk" v="30"/>
+      <pair l="r" r="copyright" v="50"/>
+      <pair l="r" r="quotedbl" v="30"/>
+      <pair l="r" r="registered" v="50"/>
+      <pair l="t" r="quotesingle" v="30"/>
+      <pair l="v" r="asterisk" v="30"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
